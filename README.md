@@ -1,8 +1,8 @@
 # dpkgfreebsd
-A small tool to fix dependencies and install deb correctlly,created by nsthy
+A small tool to fix dependencies and install deb correctlly,created by nsthy  
 
 # install
-mv dpkgfreebsd.sh /usr/local/bin/dpkgfreebsd && chmod +x /usr/local/bin/dpkgfreebsd
+mv dpkgfreebsd.sh /usr/local/bin/dpkgfreebsd && chmod +x /usr/local/bin/dpkgfreebsd  
 
 # information
 Usage: 	dpkgfreebsd <inputfile1.deb> <inputfile2.deb> <inputfile3.deb>...   
